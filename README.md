@@ -1,5 +1,7 @@
-# STEP-1 Game
-![Logo](public/logo512.png)
+<p align="center">
+  <b>STEP-1 Game</b>
+</p>
+![Logo](./step-1_logo.svg)
 
 ## Overview
 
