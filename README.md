@@ -1,4 +1,5 @@
 # STEP-1 Game
+![Logo](public/logo512.png)
 
 ## Overview
 
@@ -30,6 +31,8 @@ Embark on a series of rounds, each consisting of three distinct types of mission
   d. **Group Mission:** Collaborate with fellow participants to tackle a cooperative task.
 
 - The End of the Game: Revel in the final moments as a winner is declared, showcasing their exceptional performance. Enjoy a collection of snapshots taken throughout the game, preserving memories and highlights.
+
+
 
 ## Important Components
 
