@@ -2,11 +2,8 @@ import Typography from '@mui/material/Typography';
 import Button from "@mui/material/Button";
 import CardContent from "@mui/material/CardContent";
 import Container from "@mui/material/Container";
-import Countdown_Component from "../Components/Countdown_Component";
 import * as React from "react";
-import sockhands from './Souvenirs/sockhands.jpg'
 import {useEffect, useState} from "react";
-import Background_loser from "../Components/Background-loser";
 import "./Punishment_Page.css"
 import Avatar_and_points from "../Components/avatar_and_points";
 import Flippable_card from "../Components/Flippable_card";
@@ -67,7 +64,6 @@ export default function Punishment({curPlayer,curGame}) {
                         </CardContent>
                     </div>
                     }
-                    {/**/}
                     front_content={
                     <div>
                         <CardContent sx={{display: "flex", flexFlow:"column", justifyContent: "center", alignItems: "center" ,textAlign: "center" }}>
