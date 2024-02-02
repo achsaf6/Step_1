@@ -1,7 +1,5 @@
-<p align="center">
-  <b>STEP-1 Game</b>
-</p>
-![Logo](./step-1_logo.svg)
+#                                                STEP-1 Game
+![Logo](src/Pages/images/step-1_logo.svg)
 
 ## Overview
 
@@ -34,7 +32,7 @@ Embark on a series of rounds, each consisting of three distinct types of mission
 
 - The End of the Game: Revel in the final moments as a winner is declared, showcasing their exceptional performance. Enjoy a collection of snapshots taken throughout the game, preserving memories and highlights.
 
-
+![Game Flow](src/Achsaf_Folder/Screenshot 2024-02-02 175145.png)
 
 ## Important Components
 
